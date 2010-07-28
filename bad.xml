@@ -1,0 +1,23 @@
+<!DOCTYPE sudoku SYSTEM "sudoku.dtd">
+<?xml-stylesheet href="check.xsl" type="text/xsl"?>
+<sudoku>
+  <r>
+    <c>1</c><c>2</c><c>3</c><c>4</c><c>5</c><c>6</c><c>7</c><c>8</c><c>9</c>
+  </r><r>
+    <c>4</c><c>5</c><c>6</c><c>7</c><c>8</c><c>9</c><c>1</c><c>2</c><c>3</c>
+  </r><r>
+    <c>7</c><c>8</c><c>9</c><c>1</c><c>2</c><c>3</c><c>4</c><c>5</c><c>6</c>
+  </r><r>
+    <c>2</c><c>3</c><c>4</c><c>5</c><c>6</c><c>7</c><c>8</c><c>9</c><c>1</c>
+  </r><r>
+    <c>5</c><c>6</c><c>7</c><c>8</c><c>9</c><c>1</c><c>2</c><c>3</c><c>4</c>
+  </r><r>
+    <c>8</c><c>9</c><c>1</c><c>2</c><c>3</c><c>4</c><c>5</c><c>6</c><c>7</c>
+  </r><r>
+    <c>3</c><c>4</c><c>5</c><c>6</c><c>7</c><c>8</c><c>9</c><c>1</c><c>2</c>
+  </r><r>
+    <c>6</c><c>7</c><c>8</c><c>9</c><c>1</c><c>2</c><c>3</c><c>4</c><c>5</c>
+  </r><r>
+    <c>9</c><c>1</c><c>2</c><c>3</c><c>4</c><c>5</c><c>6</c><c>7</c><c>9</c>
+  </r>
+</sudoku>

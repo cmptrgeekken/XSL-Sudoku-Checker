@@ -1,0 +1,3 @@
+<!ELEMENT sudoku (r,r,r,r,r,r,r,r,r)>
+<!ELEMENT r (c,c,c,c,c,c,c,c,c)>
+<!ELEMENT c (#PCDATA)>
