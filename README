@@ -1,0 +1,1 @@
+check.xsl is a stylesheet that verifies if an XML representation of a Sudoku board represents a valid solution.
